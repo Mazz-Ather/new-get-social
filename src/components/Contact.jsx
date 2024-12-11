@@ -10,7 +10,7 @@ const ImageClipBox = ({ src, clipClass }) => (
 const Contact = () => {
   return (
     <div id="contact" className="my-20 min-h-96 w-screen  px-10">
-      <div className="relative rounded-lg bg-black py-24 text-blue-50 sm:overflow-hidden">
+      <div className="relative rounded-lg bg-black sm:h-[100vh] md:h-[100vh] lg:h-[80vh] mx-auto lg:-ml-5 py-24 text-blue-50 sm:overflow-hidden">
         <div className="absolute -left-20 top-0 hidden h-full w-72 overflow-hidden sm:block lg:left-20 lg:w-96">
           <ImageClipBox
             src="/img/contact-1.webp"
@@ -22,7 +22,7 @@ const Contact = () => {
           />
         </div>
 
-        <div className="absolute -top-40 left-20 w-60 sm:top-1/2 md:left-auto md:right-10 lg:top-20 lg:w-80">
+        <div className="absolute mt-36  sm:-mt-96 sm:ml-80 md:mt-0 md:ml-0  -top-40 left-20 w-60 sm:top-1/2 md:left-auto md:right-10 lg:top-20 lg:w-80">
           <ImageClipBox
             src="/img/swordman-partial.webp"
             clipClass="absolute md:scale-125"
@@ -33,7 +33,7 @@ const Contact = () => {
           />
         </div>
 
-        <div className="flex flex-col items-center text-center">
+        <div className="flex flex-col items-center text-center mt-48 sm:mt-0 md:-mt-11 lg:mt-0 lg:-ml-[100px] xl:-ml-[50px]">
           <p className="mb-10 font-general text-[12px] uppercase">
             Join us now !
           </p>

@@ -2,7 +2,7 @@ import {FaCopyright} from "react-icons/fa6"
 
 export default function Footer() {
     return (
-<footer className="relative bg-gradient-to-r from-slate-700 to-slate-950 w-full px-4 py-8 mt-20  md:px-8 lg:px-16 xl:px-24 2xl:px-64">
+<footer className="relative bg-gradient-to-r from-slate-800 to-slate-950 w-full px-4 py-8 mt-20  md:px-8 lg:px-16 xl:px-24 2xl:px-64">
 
                        
 

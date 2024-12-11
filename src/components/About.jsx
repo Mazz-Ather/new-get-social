@@ -37,7 +37,7 @@ const About = () => {
           containerClass="mt-5 !text-black text-center"
         />
 
-        <div className="about-subtext">
+        <div className="about-subtext !mt-20">
           <p>Transform Your Brand with Expert Digital Marketing</p>
           <p className="text-gray-500">
           Our agency specializes in creating customized digital marketing strategies that enhance your online visibility and drive real results.

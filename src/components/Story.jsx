@@ -103,7 +103,7 @@ const FloatingImage = () => {
           </div>
         </div>
 
-        <div className="-mt-80 flex w-full justify-center md:-mt-64 md:me-44 md:justify-end">
+        <div className="lg:-mt-64 -mt-48 flex w-full justify-center md:-mt-64 md:me-44 md:justify-end">
           <div className="flex h-full w-fit flex-col items-center md:items-start">
             <p className="mt-3 max-w-sm text-center font-circular-web text-violet-50 md:text-start">
               Where realms converge, we share uuhdsdsjhsdd iudhas dsdhsd Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam sint, assumenda eveniet quae ex inventore modi. Repellat error ratione neque molestiae! Fugiat ipsa cum voluptatibus, dolorem ratione sed itaque numquam!.
